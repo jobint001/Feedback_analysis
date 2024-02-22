@@ -38,3 +38,17 @@ The dataset contains feedback responses from participants of a session. It inclu
 
 - The boxplot for content quality across different resource persons indicates high median ratings, suggesting overall positive feedback.
 -  There are no outliers, and the interquartile range is narrow for all, which means the ratings were consistently high across participants.
+
+ ## Effectiveness:
+
+- The effectiveness of the sessions seems to be rated highly as well, with few outliers indicating occasional deviations from otherwise high ratings.
+- Mrs. Veena A Kumar and Mrs. Gayathri J L have outliers on the lower end, which might suggest specific sessions where the effectiveness was rated lower than usual.
+
+## Expertise:
+
+- Similar to effectiveness, expertise ratings are high with few outliers.
+- The outliers for Mrs. Veena A Kumar and Mrs. Gayathri J L again suggest that there were certain sessions where the perceived expertise of the resource person was not up to the participants' expectations.
+
+## Relevance:
+
+The relevance of the session content shows no outliers and high median values, indicating that the participants found the sessions to be generally applicable to real-world scenarios.
