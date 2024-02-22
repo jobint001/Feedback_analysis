@@ -78,11 +78,11 @@ K-means clustering was applied to segment participants based on their feedback r
 
 - Feature Selection: Feedback ratings on the overall quality and relevance of the course content, effectiveness, expertise, relevance, and overall organization were used as features for clustering.
  
--Finding the Optimal Number of Clusters (k): The Elbow Method was employed to determine the optimal number of clusters, with an analysis suggesting k=5 as a suitable choice.
+- Finding the Optimal Number of Clusters (k): The Elbow Method was employed to determine the optimal number of clusters, with an analysis suggesting k=5 as a suitable choice.
 
--Implementing K-means Clustering: The K-means algorithm was applied to segment the data into clusters, aiming to identify patterns in participant satisfaction and perception.
+- Implementing K-means Clustering: The K-means algorithm was applied to segment the data into clusters, aiming to identify patterns in participant satisfaction and perception.
 
--Cluster Analysis: The clusters were analyzed to understand the characteristics of feedback within each group, providing insights into areas of strength and opportunities for improvement.
+- Cluster Analysis: The clusters were analyzed to understand the characteristics of feedback within each group, providing insights into areas of strength and opportunities for improvement.
 
 ## Conclusion
 The analysis of the feedback data through exploratory data analysis and K-means clustering provides valuable insights into participant satisfaction and areas for improvement. By understanding the patterns in feedback, organizers can make informed decisions to enhance the quality and relevance of future sessions, thereby improving the learning experience for participants.
