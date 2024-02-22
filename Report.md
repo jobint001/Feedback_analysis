@@ -73,6 +73,13 @@ The Elbow Method graph suggests that the within-cluster sum of squares (WCSS) si
 
 ![Elbow method](figures/fig9.png)
 
+### Ratings by Branch
+
+The boxplot for branch-wise ratings illustrates the feedback across different academic departments. All branches show tight interquartile ranges in content quality ratings, with a few outliers, suggesting consistent perceptions of content quality regardless of the branch.
+
+![Branch-Wise Ratings](figures/fig7.png)  
+*Branch-Wise Ratings*
+
 ## Machine Learning: K-means Clustering
 K-means clustering was applied to segment participants based on their feedback ratings, with the following steps:
 
@@ -83,6 +90,11 @@ K-means clustering was applied to segment participants based on their feedback r
 - Implementing K-means Clustering: The K-means algorithm was applied to segment the data into clusters, aiming to identify patterns in participant satisfaction and perception.
 
 - Cluster Analysis: The clusters were analyzed to understand the characteristics of feedback within each group, providing insights into areas of strength and opportunities for improvement.
+
+![Cluster Visualization](figures/fig10.png)  
+*Cluster Visualization*
+
+The scatter plot for K-means clustering shows the relationship between 'Effectiveness' and 'Expertise' ratings given by the participants. The plot is likely divided into clusters represented by different colors, with cluster centroids possibly marked by a distinct symbol such as a red 'X'. The distribution of points suggests variability in participant perceptions, with most data points congregating towards higher ratings, indicating general satisfaction. However, some points are scattered towards the lower end of the scales, representing varied opinions or less positive experiences that could be areas for improvement. This clustering visualization aids in identifying patterns and segments within the participant feedback which can be critical for tailored improvements in future sessions.
 
 ## Conclusion
 The analysis of the feedback data through exploratory data analysis and K-means clustering provides valuable insights into participant satisfaction and areas for improvement. By understanding the patterns in feedback, organizers can make informed decisions to enhance the quality and relevance of future sessions, thereby improving the learning experience for participants.
