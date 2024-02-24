@@ -32,7 +32,7 @@ The dataset contains feedback responses from participants of a session. It inclu
 ## Faculty-wise Distribution of Data:
 
 - The bar graph and pie chart show the count and percentage distribution of sessions handled by different resource persons.
-- Mrs. Akshara Sasidharan and Mrs. Veena A Kumar appear to have the highest number of sessions, with Mrs. Gayathri J L and Dr. Anju Pratap having a smaller share.
+- Mrs. Akshara Sasidharan and Mrs. Gayathri J L appear to have the highest number of sessions, with Mrs. Gayathri J L and Dr. Anju Pratap having a smaller share.
 
    ![Faculty-Wise Distribution of Feedback](figures/fig1.png)  
 
