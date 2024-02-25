@@ -1,5 +1,7 @@
 # Feedback Analysis for Intel course
 
+The problem statement: A study of the segmentation of the Intel Certification course participants over satisfaction level.
+
 ## Introduction
 The analysis will focus on the feedback data collected from participants of a session, aiming to extract insights and identify patterns related to the participants' perceptions and satisfaction levels.
 
